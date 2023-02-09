@@ -7,3 +7,5 @@ git add .
 
 #next we add the commit with your message in quotes
 git commit -m "$your_commit_message"
+
+#finally we push this commit to github or whatever remote repe you have configured
