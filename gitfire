@@ -4,3 +4,5 @@ read your_commit_message
 
 #next we add the contents of your folder (.) to the staging area
 git add .
+
+#next we add the commit with your message in quotes
