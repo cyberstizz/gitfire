@@ -10,3 +10,5 @@ git commit -m "$your_commit_message"
 
 #finally we push this commit to github or whatever remote repe you have configured
 git push
+
+#as a final command we will add a status check to verify completion
