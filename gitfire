@@ -1,3 +1,5 @@
 #!/bin/bash
 #step one is to read your commit message that you want to sent to version control
 read your_commit_message
+
+#next we add the contents of your folder (.) to the staging area
