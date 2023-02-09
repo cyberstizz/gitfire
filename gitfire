@@ -6,3 +6,4 @@ read your_commit_message
 git add .
 
 #next we add the commit with your message in quotes
+git commit -m "$your_commit_message"
