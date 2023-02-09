@@ -3,3 +3,4 @@
 read your_commit_message
 
 #next we add the contents of your folder (.) to the staging area
+git add .
