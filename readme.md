@@ -18,15 +18,6 @@ class path. If this is confusing to you, you can reach out to me personally at
 charles.lamb.dev@gmail.com and I will assist you. enjoy!!
 
 
-### how to use it
-Gutties can only be used as a demo now but it still works similar to how it
-did before. it is an online store similar to the likes of Amazon, when you 
-first enter the website the first thing that you see are a list of producst
-from which you can browse or search for other products within the marketplace.
-to view an item individually just click on it. and to save to your cart or make 
-a purchase, just go to the items page and click on the appropriate action.
-
-
 ### the catch
 this command is supposed to make everything easier however there is a catch in
 this case. while the command works, you have to make sure that you are in the
